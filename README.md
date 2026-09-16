@@ -1,22 +1,19 @@
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="theme-color" content="#06090f">
-    <title>Daylight</title>
+    <title> Daylight </title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <canvas id="stars"></canvas>
-
     <div class="sky sky-sunset" id="sunset"></div>
     <div class="sky sky-truth"></div>
     <div class="grain"></div>
     <div class="vignette"></div>
     <div class="transition" id="transition"></div>
-
     <main>
         <header class="hero" id="top">
             <div class="hero-inner reveal">
@@ -25,15 +22,12 @@
                 <p>By Akeither &amp; Vanestc</p>
             </div>
         </header>
-
         <article class="story" id="story">
-
             <p class="reveal">
                 Emil awoke with a strangled scream, contorting himself away from the sharp breeze against the damp ground.
                 It leeched into every cut and tender bruise along his left side, prying open the skin like hot shrapnel.
                 As if it were yesterday all over again.
             </p>
-
             <p class="reveal">
                 Trembling fingers stretched out, half-expecting a familiar warmth to stop him.
                 Yet no bandaged hand met Emil’s wrist, nor was there a soft-spoken persuasion that could pierce through the worst of his dreams;
@@ -42,7 +36,6 @@
                 Emil hesitated, hand retracting toward his chest where his disappointment festered.
                 The memory of where she went ebbed incessantly at the back of his mind.
             </p>
-
             <p class="reveal">
                 <em><span class="truth">They sent her</span> beyond the network again. That’s where she has to be.</em>
                 Emil thought, blinking the dryness from his bloodshot eyes.
@@ -51,11 +44,9 @@
                 Why else would she have left him sleeping so long?
                 Left his cloak crumpled instead of draped back over him.
             </p>
-
             <p class="reveal">
                 It just wasn’t like her.
             </p>
-
             <p class="reveal">
                 Frowning, Emil eased himself upright along the side of the thin, rectangular pit.
                 Sunlight poured over the roughy hewn dirt above and across from him, dipping just low enough to burn into his light eyes.
@@ -65,7 +56,6 @@
                 He couldn’t tell, nor was he comfortable with the idea of it.
                 They seemed to pity him, though, judging by the way their heads drooped until their legs carried them behind the closest bend in the defensive line.
             </p>
-
             <p class="reveal">
                 <em>Something about the Company’s NCO curse,</em>
                 he thought, biting down on his lip.
@@ -76,7 +66,6 @@
                     That’s the most any of us could hope for <span class="truth">in the end.</span>
                 </em>
             </p>
-
             <p class="reveal">
                 Emil glanced around, his ears catching the faint thrum of turbolaser batteries firing in the distance.
                 He shuddered, unwilling to get up.
@@ -86,7 +75,6 @@
                 It would be the reality of war.
                 One he’d have to own.
             </p>
-
             <p class="reveal">
                 Emil stifled a groan, clutching where his shoulder vied for attention.
                 It all throbbed.
@@ -96,19 +84,16 @@
                 names and pained faces Emil hadn’t the time to learn.
                 He convinced himself it was better that way, not knowing.
             </p>
-
             <p class="reveal">
                 Emil shut his eyes tightly, leaning his head against the slipping soil.
                 The mental image of the field remained stamped against his eyelids.
                 He could still see how they carpeted the churned field, hardly a wrist’s length from one another.
                 Where the fallen hadn’t lain, blood glistened in shallow craters under the creeping luminance of morning.
             </p>
-
             <p class="reveal">
                 No-man’s-land, strangely, reminded him of home.
                 Denon.
             </p>
-
             <p class="reveal">
                 It was like one of those revolving doors he’d seen once before on a Banking Clan building.
                 If he wasn’t paying attention.
@@ -118,12 +103,10 @@
                 And for the Company, it felt like they spent less of their time fighting the Imperials
                 and more of it dragging back whatever remained of would-be friends.
             </p>
-
             <p class="reveal">
                 They had to, before fresh, wide-eyed recruits marched off the transports to replace the fortunate ones unknowingly.
                 Like he had not so long ago.
             </p>
-
             <p class="reveal">
                 Emil glanced down at the flecks of dried blood staining the worn wooden grip of his weapon.
                 He meant to return it the other day, take back his service rifle, but she refused to reclaim it.
@@ -138,7 +121,6 @@
                     </span>
                 </em>
             </p>
-
             <p class="reveal">
                 The breeze felt less invasive now, cooling where superheated metal had carved its own trenches into his haggard disposition.
                 He tilted his head into it, wishing his waning luck might eventually rid him of his debilitating injuries.
@@ -147,19 +129,15 @@
                 Then, there were the disobedient tremors assaulting the right.
                 Though at close range there was no way for his aim to deviate enough to botch the job.
             </p>
-
             <p class="reveal">
                 <em><span class="truth">We were doomed from the start.</span></em>
             </p>
-
             <p class="reveal">
                 It was tempting.
             </p>
-
             <p class="reveal">
                 So very tempting.
             </p>
-
             <p class="reveal">
                 But no, Emil <em>promised</em> that they would see the stars again.
                 To fulfill each hypothetical that brought warmth and laughter—normalcy to each midnight conversation.
@@ -168,11 +146,9 @@
                 What sort of… friend would he be if he disappointed her by failing now?
                 They were so close to putting this planet behind them.
             </p>
-
             <div class="section-break reveal">
                 <span></span>
             </div>
-
             <p class="reveal">
                 “Karabast!” Emil snapped.
                 He twisted, swiping his cloak off the ground.
@@ -180,12 +156,10 @@
                 The folds of the garment fought him, threatening to slip and wriggle out from under his gloved fingertips.
                 He shook it unfurled, the fabric snapping taught.
             </p>
-
             <p class="reveal">
                 A blotch of red where his rank plaque should’ve been—if he would ever receive one—caught his attention.
                 The flower held firmly in place, shaking its petals defiantly.
             </p>
-
             <p class="reveal">
                 Emil hesitated.
                 He splayed the cloak out across his lap and carefully smoothed the creased petals with the same gentleness he might’ve given her hand.
@@ -194,7 +168,6 @@
                 She had told him.
                 <em>A burgundy complimentin’ that plum shade you’ve been wanting. Wouldn’t that be nice for the gradient?</em>
             </p>
-
             <p class="reveal">
                 “Whatever you want,” Emil replied absently, half-smiling to himself.
                 Then winced.
@@ -203,15 +176,12 @@
                 He slipped his cloak on with effort, fastening it around himself.
                 “Especially since they—”
             </p>
-
             <p class="dialogue reveal">
                 “Who are you talking to?” A voice asked from his right.
             </p>
-
             <p class="reveal">
                 Emil jolted, letting out a harsh, half-stifled yell as he doubled over, clutching his side.
             </p>
-
             <p class="reveal">
                 The lean, compact Twi’lek in the same fatigues as him stumbled forward into a crouch.
                 His hands reached out, hovering near Emil as he tried to steady him, though he seemed uncertain how.
@@ -220,12 +190,10 @@
                 He stammered.
                 “Haven’t I, Sir?”
             </p>
-
             <p class="dialogue reveal">
                 Emil sucked air through his teeth, shaking his head.
                 “Don’t… worry about it.”
             </p>
-
             <p class="dialogue reveal">
                 “But I have to, Sir,” Diyoc said quickly, removing his service cap.
                 He wrung the drab cover between his hands.
@@ -233,7 +201,6 @@
                 there’s a handful of medpacs left.
                 We’re… not getting another resupply, seeing how we’re about to go up and over soon.”
             </p>
-
             <p class="reveal">
                 <em>Of course Kinvara did.</em>
                 Emil glanced away from him.
@@ -247,12 +214,10 @@
                     </span>
                 </em>
             </p>
-
             <p class="dialogue reveal">
                 “Sergeant-Major Fayne?” Diyoc inclined his head, his lekku tumbling off his shoulders.
                 “The Captain insisted you… that you take one, and well—if you don’t mind my saying so—you look like the aftermath of an acklay’s chew toy, Sir.”
             </p>
-
             <p class="reveal">
                 Emil leaned back slowly, studying the recruit.
                 Black smoke rose from somewhere far off on their right.
@@ -261,7 +226,6 @@
                 Perhaps even dread.
                 This was a man on the verge of plunging into the deep end by a thread.
             </p>
-
             <p class="reveal">
                 <em>
                     <span class="truth">I couldn’t seem to find the light before.</span>
@@ -273,19 +237,16 @@
                     <span class="truth">She kept me from falling.</span>
                 </em>
             </p>
-
             <p class="dialogue reveal">
                 “<em>Insisted</em>,” Emil replied, scratching the side of his face until his palm covered his mouth.
                 He dabbed at the cut gently with his tongue, frowning.
                 “So… Kinvara isn’t ordering me to provide myself with medical attention?”
             </p>
-
             <p class="reveal">
                 Diyoc opened his mouth to speak, but nothing came out.
                 His unfocused eyes flicked over Emil’s left side, then awkwardly retreated upwards, not quite meeting his gaze again.
                 “She has to?” He murmured.
             </p>
-
             <p class="dialogue reveal">
                 “Look,” Emil started as he shifted his legs under himself.
                 He gradually eased into standing, leaning against the wall.
@@ -293,30 +254,24 @@
                 “I’m as fine as can be right now, so unless it was an order—it doesn’t sit right with me to take one from somebody who might need it more.
                 I’m only a little hurt.”
             </p>
-
             <p class="dialogue reveal">
                 “But, Sir—”
             </p>
-
             <p class="dialogue reveal">
                 “Emil.”
             </p>
-
             <p class="dialogue reveal">
                 Diyoc rose reluctantly, shifting on the balls of his feet.
                 “Emil, she said if you pulled your <em>stubborn</em> routine, she’d drag you into getting one.”
             </p>
-
             <p class="dialogue reveal">
                 “Me?”
                 Emil pointed to himself, jabbing at his chestplate a little harder than intended.
                 “I haven’t been stubborn.”
             </p>
-
             <p class="dialogue reveal">
                 “Her words, not mine, S–Emil.”
             </p>
-
             <p class="dialogue reveal">
                 “Course.”
                 Emil shifted away from Diyoc, stepping across a puddle toward the opposite wall.
@@ -324,7 +279,6 @@
                 She’ll know what I mean.
                 Probably.”
             </p>
-
             <p class="reveal">
                 With every footfall away from Diyoc, the planet seemed to cling to his boots,
                 threatening to drag him under into the hell he had been avoiding.
@@ -334,13 +288,11 @@
                 Emil thought, grimacing.
                 <em><span class="truth">No one else could’ve convinced me otherwise.</span></em>
             </p>
-
             <p class="reveal">
                 He navigated the near-continuous line, taking advantage of every break—makeshift cover—for stability.
                 After about thirty paces, he found his stride and made his way toward the western defenses,
                 where the sound of hushed and excited voices grew louder.
             </p>
-
             <p class="reveal">
                 Soldiers from Kilst Company hugged the scorched walls of the forward line,
                 moving the barrels of their weapons out of Emil’s way as he went past.
@@ -352,12 +304,10 @@
                 The Commander’s return signaled that time was running out,
                 and the day’s outcome would determine if he could fulfil his promise.
             </p>
-
             <p class="reveal">
                 Emil broke into a jog, biting back an abundance of curses as sickening heat radiated from his shoulder down to his waist.
                 His chestplate chafed against his bandages, irritating them again to the point of bleeding.
             </p>
-
             <p class="reveal">
                 <em><span class="truth">You have to be waiting for me</span> somewhere.</em>
                 Emil thought, turning sharply where the solidifying mud transitioned into brick.
@@ -366,7 +316,6 @@
                     But we wouldn’t have seen the <span class="truth">stars</span> the same way otherwise<span class="truth">.</span>
                 </em>
             </p>
-
             <p class="reveal">
                 Emil walked through the ruins to the left side of the trenches.
                 Shouting sounded off from the right.
@@ -376,7 +325,6 @@
                 But many of the engagements were so draining, so horrific, that they left both of them sitting in silence for too long.
                 He sent a rock skittering ahead of him, following it with his eyes until they fell on black boots.
             </p>
-
             <p class="reveal">
                 Emil’s head snapped up, fast enough that Dantooine tilted sideways and he nearly went with it.
                 He caught himself on a damaged pillar.
@@ -384,7 +332,6 @@
                 “<em>Lyvia</em>,” he whispered.
                 “I thought I had lost you..”
             </p>
-
             <p class="reveal">
                 The woman stood; sunlight caught the edges of her dark waves, setting wispy strands of loose hair alight into hazy threads of amber.
                 She smiled and waved gently, fresh bandages extending from her fingers up her forearms.
@@ -392,7 +339,6 @@
                 Usually are.”
                 Lyvia shrugged.
             </p>
-
             <p class="reveal">
                 <em>It’s like nothing changed.</em>
                 Emil thought, returning her smile.
@@ -401,18 +347,15 @@
                 Anchored by their thorns, they formed a shape Emil figured he wasn’t creative enough to compare to something else.
                 She saw it, though, whatever it was, and to him, that’s all that mattered.
             </p>
-
             <p class="dialogue reveal">
                 She reached up and adjusted her somewhat clean bandage over her eye.
                 “Arm still shaky, Emil?”
             </p>
-
             <p class="dialogue reveal">
                 “I’ll be alright—my aim will probably never be where it was, though.”
                 Emil rubbed his left shoulder, frowning.
                 “Damned fingers won’t stay still after that barrage clipped us.”
             </p>
-
             <p class="dialogue reveal">
                 “Healing takes time.”
                 Lyvia glanced at him.
@@ -421,7 +364,6 @@
                 “You can use some madpacs for yourself, n’maybe the nerves will settle.
                 Think you’ve used enough of them on me, y’know?”
             </p>
-
             <p class="reveal">
                 At the moment, his forming objection felt weak.
                 On the one hand, he strongly believed in what he’d said to Diyoc earlier.
@@ -438,19 +380,16 @@
                     we’d definitely need a resupply, though<span class="truth">.</span>
                 </em>
             </p>
-
             <p class="dialogue reveal">
                 “Out of the two of us, I think I’ll let you handle the fine shooting.”
                 He shifted on his feet.
                 “You’re out gunning most here, regardless of whether they acknowledge it.”
             </p>
-
             <p class="dialogue reveal">
                 “I don’t care if they do.”
                 Lyvia folded her arms.
                 “It wouldn’t change much if they did, Emil.”
             </p>
-
             <p class="dialogue reveal">
                 “It has to count for something, Lyvia, all the lives you’ve saved.
                 Objectives completed.
@@ -460,7 +399,6 @@
                 “I–I wouldn’t even be here if you weren’t covering me.
                 Moons, how many of the others could say the same if… if they weren’t so afraid?”
             </p>
-
             <p class="reveal">
                 <em>Callahan threatened all the Non-Commissioned-Officers.</em>
                 Emil thought, his brows twitching together.
@@ -472,7 +410,6 @@
                 feeling his anger slip away from him, whisked away by the gentle breeze that nudged the plants into new footholds.
                 <em>Maybe Ven was right, I am a coward.</em>
             </p>
-
             <p class="dialogue reveal">
                 “Emil,” Lyvia said gently, stepping into his eyeline.
                 “Do you remember what I said to you about all this?”
@@ -480,12 +417,10 @@
                 “They’re not supposed to grow here.
                 This isn’t—”
             </p>
-
             <p class="dialogue reveal">
                 “Alderaan,” he replied, turning toward her.
                 “You said… they’re rare, dying out.”
             </p>
-
             <p class="reveal">
                 She nodded, leaning forward to straighten her gift to him.
                 The petals shifted lightly in the breeze, brushing against the rough fabric of his cloak.
@@ -493,7 +428,6 @@
                 “Told you this’d stay there too.
                 Through the worst of the Imp’s artillery.”
             </p>
-
             <p class="reveal">
                 Emil hesitated.
                 “Maybe we can work on that garden we’ve been talking about into something more when this is all over instead of waiting for that hypothetical other life.
@@ -502,12 +436,10 @@
                 “Isadora said the other day, that shade I’ve been telling you about grows somewhere on Ithor,” he said quickly.
                 “I just… don’t know where we’re meant to look.”
             </p>
-
             <p class="dialogue reveal">
                 Lyvia hummed.
                 “Somethin’ darker, like the sky just before the sun fully sets?
             </p>
-
             <p class="reveal">
                 “How else are we going to recreate this sky?”
                 He laughed quietly.
@@ -518,27 +450,22 @@
                 He remembered how sensitive her nailbeds were, how the pressure was more likely to cause more harm than comfort.
                 Instead, his thumb twitched over the back of her hand with the ghost of its former stability.
             </p>
-
             <p class="reveal">
                 Nearby, the unmistakable hiss of lightsaber cut thorough the air,
                 followed by shouting and the scraping of boots against metal.
             </p>
-
             <p class="dialogue reveal">
                 “You promised you’d see it through, and I know you will.”
                 Lyvia released him, her gaze following the Company.
                 “You have to go, Emil… you know where I’ll be.
                 Out there, and when you come back.”
             </p>
-
             <p class="dialogue reveal">
                 “On my left.” he whispered.
             </p>
-
             <div class="section-break reveal">
                 <span></span>
             </div>
-
             <p class="reveal">
                 The promise of night came as daylight surrendered its waves of golden light to watercolor striations of pink and plum.
                 Distant echoes of Kilst Company’s celebrations, their cheering and laughter, traveled on the sweet and earthy wind.
@@ -546,13 +473,11 @@
                 He had found refuge in the ruins again for one last evening of relatively undisturbed silence.
                 Emil sat back, crimson blood slick on his glove—his blaster slipping from his fingers and thudding softly against the dirt.
             </p>
-
             <p class="reveal">
                 Many soldiers struggled with decisions, whether in the chaos of combat or unnerved by the eerie silence that followed.
                 Emil felt those same effects suffocating him now with uncertainty.
                 Even returning had been difficult.
             </p>
-
             <p class="reveal">
                 Numb, he stared down at her gift, the mangled remains of the flame-rose which clung to his armor still.
                 He pulled it free with little effort, cradling its bruised petals in his palm.
@@ -562,7 +487,6 @@
                 Still, watching the dream slip beyond his reach haunted Emil.
                 He refused to subject himself to something like this again.
             </p>
-
             <p class="reveal">
                 “I can’t be who you need me to be, Lyvia,” he said, turning to set the flower beside him on the left.
                 His eyes followed the cracked stones around him until he could look out at the field,
@@ -575,21 +499,17 @@
                 <em><span class="truth">Maybe this is my fate, and it’s all my fault</span>,</em>
                 he thought, rounding his head back toward the blaster.
             </p>
-
             <p class="dialogue reveal">
                 “Emil,” Lyvia’s voice, a soft whisper from beside him, pulled him from his deep contemplation.
                 “Describe the stars to me?”
             </p>
-
             <p class="reveal">
                 A chill washed over him as he felt his exhaustion finally catching up to him.
                 His shoulders sank along with his expression.
             </p>
-
             <p class="dialogue reveal">
                 “You’re ‘supposed to be my eyes, remember?”
             </p>
-
             <p class="reveal">
                 Emil held his breath.
                 It was the only thing he dared to do as his left arm cramped,
@@ -597,20 +517,16 @@
                 He bit down on his tongue, just hard enough for the discomfort to migrate there instead.
                 Or at the very least, not scream and draw the attention of the others.
             </p>
-
             <p class="dialogue reveal">
                 “Emil, you there?”
             </p>
-
             <p class="dialogue reveal">
                 He exhaled, slow and controlled.
                 “I’m still here.”
             </p>
-
             <p class="dialogue reveal">
                 “Describe them to me?”
             </p>
-
             <p class="dialogue reveal">
                 “I know—I just—I need a minute.
                 I’m… not sure I’ll have the right words.
@@ -618,53 +534,43 @@
                 Remember?
                 I don’t have your genius for it.”
             </p>
-
             <p class="dialogue reveal">
                 “Try anyway.”
             </p>
-
             <p class="reveal">
                 Emil didn’t respond.
             </p>
-
             <p class="dialogue reveal">
                 “What about what you said before?
                 You’d go n’try your hand at poetry in that other hypothetical life.
                 Why wait?”
             </p>
-
             <p class="dialogue reveal">
                 “You asked me to.”
             </p>
-
             <p class="dialogue reveal">
                 “Not for that, Emil.”
             </p>
-
             <p class="dialogue reveal">
                 “I wouldn’t have your paintings—you know?
                 We were supposed to make at least… a million credits out of that.
                 My words were supposed to complement your imagery.”
             </p>
-
             <p class="reveal">
                 “Two,” she replied, laughing.
                 Lyvia adjusted the bandage over her eye, just outside his peripheral vision.
                 He glimpsed a smile.
             </p>
-
             <p class="reveal">
                 Emil couldn’t help himself from doing the same.
                 “I bet we could’ve pushed for three if we said some expensive wood made up the frame.
                 Krinn, maybe.”
             </p>
-
             <p class="dialogue reveal">
                 “Four,” she ventured.
                 “It’s like you said.
                 Chancellor’s ‘supposed to make room for it in his gallery.”
             </p>
-
             <p class="reveal">
                 Across the back of his left hand, he felt a dull tingling sensation creep across before slowly melting into a warm lucidity.
                 He could almost feel the soft touch of her knuckles against his, vivid in his mind.
@@ -672,25 +578,21 @@
                 It was a gesture, he realized, far too late, that he should’ve done more.
                 <em>Tried</em> to do more.
             </p>
-
             <p class="dialogue reveal">
                 “Describe them, Emil?”
                 Lyvia coaxed.
                 It was in the same tone she’d used before, at the height of his nightmares.
                 She’d built a fortress with gentleness, and he stumbled toward it still.
             </p>
-
             <p class="dialogue reveal">
                 “I did promise, didn’t I?”
                 He said wistfully to the darkness.
             </p>
-
             <p class="reveal">
                 Emil glanced at the sky from under his brow.
                 Pinpricks of stars glittered against the cosmos in faint pulses, like individual heartbeats.
                 He knew her to be out there somewhere, tracing her way along the constellations.
             </p>
-
             <p class="reveal">
                 “We kept saying, <em>In another life</em>, but I’d like to think we were already there.”
                 Emil said, keeping his voice steady.
@@ -698,17 +600,13 @@
                 robbed of their momentum just like he was, rested unaccompanied.
                 As they had since yesterday.
             </p>
-
             <p class="final-line reveal">
                 “Our stars are the same as ever, Lyvia, though they seem brighter tonight,” he said to himself.
             </p>
-
             <p class="final-line reveal">
                 “Maybe they’re hoping, like I am, that you can see them one more time.”
             </p>
-
         </article>
-
         <section class="art-section" id="art">
             <div class="art-stage reveal">
                 <div class="art-frame" id="artFrame">
@@ -727,23 +625,19 @@
                     <div class="art-glow"></div>
                 </div>
             </div>
-
             <div class="reveal-control reveal">
                 <p class="reveal-prompt">
                     There are things daylight makes easier to believe.
                 </p>
-
                 <button id="truthButton" type="button">
                     <span>REVEAL THE TRUTH</span>
                 </button>
             </div>
         </section>
-
         <footer>
             <span>SWOTO 2026</span>
         </footer>
     </main>
-
     <script src="script.js"></script>
 </body>
 </html>
